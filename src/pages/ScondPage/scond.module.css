@@ -1,0 +1,180 @@
+.container {
+  margin: 0 250px 0 250px;
+}
+.back {
+  height: 15px;
+  width: 7.5px;
+  margin-right: 8px;
+  margin-top: 3px;
+}
+.pt80 {
+  padding-top: 80px;
+}
+.flx {
+  display: flex;
+  flex-direction: row;
+}
+.flxp {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.fs18 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.fs24 {
+  font-size: 24px;
+  font-weight: 700;
+}
+.fs40 {
+  font-size: 40px;
+  font-weight: 600;
+  margin: 0%;
+}
+.pt16 {
+  padding-top: 16px;
+}
+.W420 {
+}
+.W776 {
+}
+* {
+  font-family: "Nuntio";
+}
+@font-face {
+  font-family: "Nuntio";
+  src: url(../../font/static/Nunito-Black.ttf);
+  src: url(../../font/static/Nunito-BlackItalic.ttf);
+  src: url(../../font/static/Nunito-Bold.ttf);
+  src: url(../../font/static/Nunito-BoldItalic.ttf);
+  src: url(../../font/static/Nunito-Light.ttf);
+  src: url(../../font/static/Nunito-Medium.ttf);
+  src: url(../../font/static/Nunito-SemiBold.ttf);
+  src: url(../../font/static/Nunito-Regular.ttf);
+}
+.fs24 {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0%;
+  color: #2e4049;
+}
+.card {
+  width: 712px;
+  background-color: #eaecf0;
+  padding: 32px;
+  width: 605px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+.cardR {
+  background-color: #fff;
+  border: 1px solid black;
+  padding: 16px 32px;
+  box-shadow: 1px gry;
+  border-radius: 4px;
+  width: 315px;
+  margin-left: 32px;
+}
+.end {
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+}
+.data > p {
+  padding-top: 20px;
+}
+.data {
+  margin-top: 16px;
+}
+.data2 {
+  margin-top: 16px;
+  margin-left: 40px;
+}
+.data2 > p {
+  padding-top: 20px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.fs20 {
+  font-size: 20px;
+  font-weight: 700;
+}
+.circle {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  background-color: #fff;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  width: 16px;
+  height: 16px;
+}
+.qrcode {
+  height: 100px;
+  width: 100px;
+  padding-top: 20px;
+}
+.mb24 {
+  margin-bottom: 24px;
+}
+.fs12 {
+  font-size: 12px;
+  color: #667085;
+  font-weight: 500;
+}
+.fs18 {
+  font-size: 18px;
+  font-weight: 600;
+}
+.w50 {
+  width: 50%;
+}
+.between {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pt24 {
+  padding-top: 24px;
+}
+.mt24 {
+  margin-top: 24px;
+}
+.py24 {
+  padding: 24px 0;
+}
+.btn2 {
+  background-color: #007c99;
+  border: 1px solid #007c99;
+  padding: 12px 20px;
+  color: #fff;
+  border-radius: 35px;
+  font-size: 14px;
+  font-weight: 700;
+  width: 220px;
+}
+.share {
+  height: 44px;
+  width: 44px;
+  border-radius: 50%;
+  background-color: #f2f4f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 24px;
+  margin-top: 24px;
+}
+.icon2 {
+  height: 24px;
+  width: 24px;
+}
+.timer {
+  height: 20px;
+  width: 20px;
+  margin-right: 8px;
+}

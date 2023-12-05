@@ -1,0 +1,29 @@
+.islam {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.flx {
+  display: flex;
+  justify-content: center;
+}
+ul {
+  gap: 2rem;
+}
+.outer {
+  margin: 48px 250px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.icon {
+  margin-left: 26px;
+  color: #98a2b3;
+  height: 24px;
+  width: 24px;
+}
+.fs16 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #667085;
+}
